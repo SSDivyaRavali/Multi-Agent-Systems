@@ -15,3 +15,6 @@ doc/*.txt
 
 # ignore all .pdf files in the doc/ directory and any of its subdirectories
 doc/**/*.pdf
+
+.gitignore
+PARIS (Python-based Agentic Retrieval Interview System)/
