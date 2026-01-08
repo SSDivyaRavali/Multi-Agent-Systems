@@ -1,0 +1,19 @@
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+qdrant-client==1.6.9
+python-dotenv==1.0.0
+pypdf==3.17.1
+python-docx==0.8.11
+beautifulsoup4==4.12.2
+requests==2.31.0
+streamlit==1.28.0
+openai==1.3.0
+tiktoken==0.5.1
+python-multipart==0.0.6
+transformers
+accelerate
+sentence_transformers
+wikipedia-api
+-q -i https://pypi.org/simple/ bitsandbytes
+# -q -U torch --index-url https://download.pytorch.org/whl/cu117
