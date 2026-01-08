@@ -90,7 +90,7 @@ The GenAI Career Assistant is built on a Supervisor Multi-Agent Architecture. He
 
    ```
    conda install ipykernel
-   python -m ipykernel install --user --name project-setup
+   python -m ipykernel install --user --name genaiagent-setup
    pip install ipywidgets
    ```
 4. Sign up for LangSmith: 
